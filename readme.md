@@ -8,4 +8,6 @@ Laatste update: 25/04/2018
 
 **Changelog**
 
+**1.0.1** Er zijn een aantal logo's toegevoegd.
+
 **1.0.0** Project gestart.
