@@ -6,7 +6,17 @@ Laatste update: 25/04/2018
 
 
 
+**Mail versluitelen**
+
+[Zie de volgende pagina](https://support.office.com/nl-nl/article/e-mailberichten-versleutelen-373339cb-bf1a-4509-b296-802a39d801dc?ui=nl-NL&rs=nl-NL&ad=NL)
+
+
+
+
+
 **Changelog**
+
+**1.0.2** Het bestand logo's.afdesign is toegevoegd.
 
 **1.0.1** Er zijn een aantal logo's toegevoegd.
 
