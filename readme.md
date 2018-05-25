@@ -16,6 +16,8 @@ Laatste update: 25/04/2018
 
 **Changelog**
 
+**1.0.3** AVG verwerkersovereenkomst toegevoegd.
+
 **1.0.2** Het bestand logo's.afdesign is toegevoegd.
 
 **1.0.1** Er zijn een aantal logo's toegevoegd.
