@@ -1,6 +1,6 @@
 # BMC 'de Vallei'
 
-Laatste update: 25/04/2018
+Laatste update: 04/06/2018
 
 © 2018 Job Heger. Alle rechten voorbehouden.
 
@@ -15,6 +15,8 @@ Laatste update: 25/04/2018
 
 
 **Changelog**
+
+**1.0.4** Nieuw logo, definitief klaar.
 
 **1.0.3** AVG verwerkersovereenkomst toegevoegd.
 
